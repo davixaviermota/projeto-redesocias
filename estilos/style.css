@@ -32,3 +32,10 @@ main{
 
     background:  url(../imagens/frame-iphone.png) no-repeat ;
 }
+#tela{  /*aqui é a tela do iframe que é a pagina home.html para ficar dentro do telefone*/
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 268px;
+    height: 471px;
+}
